@@ -21,11 +21,11 @@ Sample Dockerfiles From My Practice
 - `cd DockerPractice/`
 
 - Edit your files
-- `git diff` : to see your changes of the content within the file
-- `git add <filename>` example: git add README.md
-- `git status` displays which files have changed
-- `git commit` commits the changes to the local git
-- `git log` shows commit history 
-- `git push origin master` this pushes the local commits to remote git server
+`git diff` : to see your changes of the content within the file
+`git add <filename>` example: git add README.md
+`git status` displays which files have changed
+`git commit` commits the changes to the local git
+`git log` shows commit history 
+`git push origin master` this pushes the local commits to remote git server
 
 
